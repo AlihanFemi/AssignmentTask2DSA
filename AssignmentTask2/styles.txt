@@ -1,0 +1,3 @@
+0|Jeans|Tight|Blue|Leather|Dominion|50|XL-20,
+1|Jacket|Loose|Blue|Leather|Dominion|70|XL-20,
+2|Apron|Loose|Red|Cotton|Life|60|
